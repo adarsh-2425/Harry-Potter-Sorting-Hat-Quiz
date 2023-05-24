@@ -12,8 +12,9 @@ int main() {
     cout << "Welcome to the Hogwarts School of Witchcraft and Wizardry!" << endl;
     cout << "Before we begin, we need to sort you into one of our four houses." << endl;
     cout << "Please answer the following questions truthfully." << endl;
+    cout << "\n\n";
     cout << "What is your name? ";
-    cin >> name;
+    getline (cin, name);
     
    //Question 1
     cout << "Question 1: What is your preferred way of spending your free time?\n" << endl;
@@ -140,3 +141,4 @@ int main() {
 
     return 0;
 }
+
