@@ -98,7 +98,7 @@ int main() {
     }
     
     //Question 4
-    cout << "Question 4: If you could have any of thesemagical creatures as your pet, which one would you choose?\n" << endl;
+    cout << "Question 4: If you could have any of these magical creatures as your pet, which one would you choose?\n" << endl;
     cout << "1. Dragon" << endl;
     cout << "2. Phoenix" << endl;
     cout << "3. Unicorn" << endl;
